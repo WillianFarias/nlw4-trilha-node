@@ -20,3 +20,9 @@ yarn tsc --init
 
 Converte ts em js em tempo de execução
 yarn add ts-node-dev -D
+
+Orm
+yarn add typeorm reflect-metadata
+
+bd sqlite
+yarn add sqlite3
