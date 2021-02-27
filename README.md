@@ -26,3 +26,12 @@ yarn add typeorm reflect-metadata
 
 bd sqlite
 yarn add sqlite3
+
+Criando uma migration
+yarn typeorm migration:create -n CreateUsers
+
+Executando uma migration
+yarn typeorm migration:run
+
+rollback da ultima migration
+yarn typeorm migration:revert
