@@ -41,3 +41,12 @@ yarn add uuid
 
 Tipos da biblioteca uuid
 yarn add @types/uuid -D
+
+Teste unitarios com Jest
+yarn add jest @types/jest -D
+
+Adicionar arquivo de configuracao do Jest
+yarn jest --init
+
+Preset responsavel por possibilitar o uso de typescript nos testes
+yarn add ts-jest -D
