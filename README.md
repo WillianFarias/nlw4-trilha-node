@@ -50,3 +50,6 @@ yarn jest --init
 
 Preset responsavel por possibilitar o uso de typescript nos testes
 yarn add ts-jest -D
+
+Ferramenta que possibilita fazer testes de integração
+yarn add supertest @type/supertest -D
