@@ -37,3 +37,7 @@ rollback da ultima migration
 yarn typeorm migration:revert
 
 biblioteca responsavel por gerenciar uuid
+yarn add uuid
+
+Tipos da biblioteca uuid
+yarn add @types/uuid -D
